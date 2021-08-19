@@ -1,6 +1,6 @@
 Hi there!
 
-I am an Egyptian 19 year old university student currently studying Computer Science at Heriot Watt.
+I am an Egyptian 20 year old university student currently studying Computer Science at Heriot Watt.
 
 Some projects that I have worked on are:
 • PPM Steganography Program in C
