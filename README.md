@@ -1,4 +1,4 @@
-#💻Ismail El Bolock💻
+#$ 💻Ismail El Bolock💻
 
 An Software Engineer with a strong desire to learn new tech and push the limits.
 
